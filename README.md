@@ -35,7 +35,7 @@ To use the User Management API:
 - Method: POST
 - Request Body:
 
-- {
+    {
   "email": "example@example.com",
   "password": "password123"
 }
