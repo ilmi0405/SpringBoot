@@ -39,3 +39,11 @@ To use the User Management API:
   "email": "example@example.com",
   "password": "password123"
 }
+
+- Response:
+    HTTP Status: 201 Created
+      Response Body:
+          {
+          "id": 1,
+          "email": "example@example.com"
+        }
