@@ -1,2 +1,9 @@
 # SpringBoot
-RESTful API server which can register users, handle logins, and return the occurrence of each email domain
+
+###Technologies Used
+- Java
+-Spring Boot
+- Spring Data JPA
+Spring Security
+PostgreSQL (or your preferred database)
+Postman (for API testing)
